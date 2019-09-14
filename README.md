@@ -1,5 +1,5 @@
 # etc_project
-기타 프로젝트 정리
+학부시절& 등등
 
 
 ## JAVA_PROJECT
