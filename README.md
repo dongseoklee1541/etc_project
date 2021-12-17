@@ -1,5 +1,5 @@
 # etc_project
-학부시절& 이후 프로젝트
+학부시절& 이후 프로젝트.
 
 
 ## JAVA_PROJECT
